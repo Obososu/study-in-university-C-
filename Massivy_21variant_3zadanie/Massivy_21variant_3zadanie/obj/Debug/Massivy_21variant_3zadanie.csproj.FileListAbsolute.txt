@@ -1,0 +1,7 @@
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\bin\Debug\Massivy_21variant_3zadanie.exe.config
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\bin\Debug\Massivy_21variant_3zadanie.exe
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\bin\Debug\Massivy_21variant_3zadanie.pdb
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\obj\Debug\Massivy_21variant_3zadanie.csprojAssemblyReference.cache
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\obj\Debug\Massivy_21variant_3zadanie.csproj.CoreCompileInputs.cache
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\obj\Debug\Massivy_21variant_3zadanie.exe
+C:\Users\fores\source\repos\Massivy_21variant_3zadanie\Massivy_21variant_3zadanie\obj\Debug\Massivy_21variant_3zadanie.pdb
