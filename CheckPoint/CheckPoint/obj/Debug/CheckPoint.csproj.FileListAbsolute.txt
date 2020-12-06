@@ -1,0 +1,7 @@
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\bin\Debug\CheckPoint.exe.config
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\bin\Debug\CheckPoint.exe
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\bin\Debug\CheckPoint.pdb
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\obj\Debug\CheckPoint.csprojAssemblyReference.cache
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\obj\Debug\CheckPoint.csproj.CoreCompileInputs.cache
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\obj\Debug\CheckPoint.exe
+C:\Users\fores\source\repos\CheckPoint\CheckPoint\obj\Debug\CheckPoint.pdb
