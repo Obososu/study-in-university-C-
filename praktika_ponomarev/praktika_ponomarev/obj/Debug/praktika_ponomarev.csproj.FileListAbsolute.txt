@@ -1,0 +1,7 @@
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\bin\Debug\praktika_ponomarev.exe.config
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\bin\Debug\praktika_ponomarev.exe
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\bin\Debug\praktika_ponomarev.pdb
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\obj\Debug\praktika_ponomarev.csprojAssemblyReference.cache
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\obj\Debug\praktika_ponomarev.csproj.CoreCompileInputs.cache
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\obj\Debug\praktika_ponomarev.exe
+C:\Users\fores\source\repos\praktika_ponomarev\praktika_ponomarev\obj\Debug\praktika_ponomarev.pdb
