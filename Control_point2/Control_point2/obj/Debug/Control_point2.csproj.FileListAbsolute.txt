@@ -1,0 +1,7 @@
+C:\Users\fores\source\repos\Control_point2\Control_point2\bin\Debug\Control_point2.exe.config
+C:\Users\fores\source\repos\Control_point2\Control_point2\bin\Debug\Control_point2.exe
+C:\Users\fores\source\repos\Control_point2\Control_point2\bin\Debug\Control_point2.pdb
+C:\Users\fores\source\repos\Control_point2\Control_point2\obj\Debug\Control_point2.csprojAssemblyReference.cache
+C:\Users\fores\source\repos\Control_point2\Control_point2\obj\Debug\Control_point2.csproj.CoreCompileInputs.cache
+C:\Users\fores\source\repos\Control_point2\Control_point2\obj\Debug\Control_point2.exe
+C:\Users\fores\source\repos\Control_point2\Control_point2\obj\Debug\Control_point2.pdb
