@@ -1,0 +1,7 @@
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\bin\Debug\Kursovaya_Kutovyh.exe.config
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\bin\Debug\Kursovaya_Kutovyh.exe
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\bin\Debug\Kursovaya_Kutovyh.pdb
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\obj\Debug\Kursovaya_Kutovyh.csprojAssemblyReference.cache
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\obj\Debug\Kursovaya_Kutovyh.csproj.CoreCompileInputs.cache
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\obj\Debug\Kursovaya_Kutovyh.exe
+C:\Users\fores\source\repos\Kursovaya_Kutovyh\Kursovaya_Kutovyh\obj\Debug\Kursovaya_Kutovyh.pdb
